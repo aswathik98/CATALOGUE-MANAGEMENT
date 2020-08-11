@@ -32,7 +32,7 @@ static AdminController ac = new AdminController();
 		
 		System.out.println("**************************************************************************");
 		System.out.println("             ");
-		System.out.println("---------------WELCOME TO INVENTORY MANAGEMENT SYSTEM-------------------");
+		System.out.println("---------------WELCOME TO CATALOGUE MANAGEMENT SYSTEM-------------------");
 		System.out.println("");
 		System.out.println("");
 		System.out.println("---------------Today's Date and Current Time is: "+ mydateObj.format(myFormatObj)+"--------");
